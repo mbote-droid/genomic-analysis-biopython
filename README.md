@@ -24,4 +24,4 @@ GC-rich regions are often associated with gene-dense areas and regulatory elemen
 
 ## Output Example
   https://github.com/mbote-droid/genomic-analysis-biopython/blob/main/terminal%20output.png
-  
+  https://github.com/mbote-droid/genomic-analysis-biopython/blob/main/biopython%20pic.png
