@@ -23,4 +23,6 @@ This project analyzes DNA sequence data using BioPython to compute GC content an
 GC-rich regions are often associated with gene-dense areas and regulatory elements in DNA.
 
 ## Output Example
-  my screenshots
+  biopython pic.png
+  terminal output.png
+  
